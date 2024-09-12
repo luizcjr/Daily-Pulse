@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-client-core-iossimulatorarm64:2.3.5" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="io.ktor" artifactId="ktor-client-core-iossimulatorarm64" version="2.3.5" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-core-iossimulatorarm64/2.3.5/a8c715e5510cb334940aaac70a9577f18a41d63a/ktor-client-core.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-core-iossimulatorarm64/2.3.5/a130943397e8466a5985dab399206d8c91df8cdb/ktor-client-core-iossimulatorarm64-2.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

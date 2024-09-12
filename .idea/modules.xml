@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Daily_Pulse.iml" filepath="$PROJECT_DIR$/.idea/modules/Daily_Pulse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidApp/Daily_Pulse.androidApp.iml" filepath="$PROJECT_DIR$/.idea/modules/androidApp/Daily_Pulse.androidApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidApp/Daily_Pulse.androidApp.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/androidApp/Daily_Pulse.androidApp.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidApp/Daily_Pulse.androidApp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/androidApp/Daily_Pulse.androidApp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidApp/Daily_Pulse.androidApp.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/androidApp/Daily_Pulse.androidApp.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.appleMain.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.appleMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.appleTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.appleTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.iosArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.iosArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.iosArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.iosArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.iosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.iosMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.iosSimulatorArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.iosSimulatorArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.iosSimulatorArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.iosSimulatorArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.iosTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.iosX64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.iosX64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.iosX64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.iosX64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.nativeMain.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.nativeMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.nativeTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.nativeTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/Daily_Pulse.shared.unitTest.iml" />
+    </modules>
+  </component>
+</project>
